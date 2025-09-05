@@ -1,0 +1,2 @@
+# uakino
+block ad 
